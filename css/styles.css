@@ -266,16 +266,16 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--navy-blue-color));
+    color: var(--navy-blue-color);
     background-color: var(--white-color);
 }
 
 .team-list {
-
+    background-color: var(--white-color);
 }
 
 .team-item {
-    
+
 }
 
 .team-item-img {
@@ -288,7 +288,7 @@ font-size: 20px;
 line-height: 1.2;
 text-align: center;
 letter-spacing: 0.02em;
-color: var(--navy-blue-color);  
+color: var(--navy-blue-color);
 }
 
 .team-item-text {
