@@ -261,14 +261,6 @@ body {
 }
 
 .team-title {
-
-}
-
-.team-list {
-
-}
-
-.team-item {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -276,6 +268,14 @@ body {
     text-transform: capitalize;
     color: var(--navy-blue-color));
     background-color: var(--white-color);
+}
+
+.team-list {
+
+}
+
+.team-item {
+    
 }
 
 .team-item-img {
