@@ -271,10 +271,11 @@ body {
 }
 
 .team-list {
-    background-color: var(--white-color);
+    
 }
 
 .team-item {
+    background-color: var(--white-color);
 
 }
 
@@ -289,7 +290,6 @@ line-height: 1.2;
 text-align: center;
 letter-spacing: 0.02em;
 color: var(--navy-blue-color);
-background-color: var(--white-color);
 }
 
 .team-item-text {
